@@ -1,0 +1,2 @@
+# ghostty-conf
+Ghostty Configuration
